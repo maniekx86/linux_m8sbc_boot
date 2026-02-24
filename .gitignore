@@ -1,0 +1,6 @@
+*.o
+*.sys
+*.elf
+*.bin
+*.img
+zImage
